@@ -1,5 +1,5 @@
-- hi, i’m hasyim!
-- nothing's here (atm) :)
+hi, i’m hasyim!
+nothing's here (atm) 👍
 
 <!---
 h4syimm/h4syimm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
